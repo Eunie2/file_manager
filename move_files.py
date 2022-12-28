@@ -26,7 +26,7 @@ elif input_mode == "delete":
     yes_or_no = input("i can do delete now. yes or no? ")
     if yes_or_no == "yes":
         shutil.rmtree(input_path)
-    sys.exit("success!")
+        sys.exit("success!")
 
 elif input_mode == "move":
     input_path = input("input ./directory path/? ")
