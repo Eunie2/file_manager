@@ -21,7 +21,7 @@ if you wanna create new directories? then type:</br>
 ```
 create
 ```
-create mode can actually create new directory and new directories</br>
+create mode can actually create new directory and new directories.</br>
 create mode can: </br>
 ```
 ./test/
@@ -33,21 +33,21 @@ if you wanna copy files? then type:</br>
 ```
 copy
 ```
-copy mode can yeah, this mode copy one file,but it cant copy directory</br>
+copy mode can yeah, this mode copy one file,but it cant copy directory.</br>
 copy mode:</br>
 ```
 input_path : [file_name]
 output_path: [new_file_name]
 ```
-this mode can rename</br>
+this mode can rename.</br>
 next!</br>
 
 if you wanna duplication? then type: </br>
 ```
 duplication
 ```
-duplication mode can duplicate directory</br>
-it cant duplicate file. if you want duplicate file you can use copy mode</br>
+duplication mode can duplicate directory.</br>
+it cant duplicate file. if you want duplicate file you can use copy mode.</br>
 how to:</br>
 ```
 input path : ./[directory_name]/
@@ -59,7 +59,7 @@ if you wanna delete file/folder? then type:</br>
 ```
 delete
 ```
-delete mode can delete directory and file</br>
+delete mode can delete directory and file.</br>
 this mode do delete all on directory:</br>
 ```
 input delete directory path or file name
@@ -79,7 +79,7 @@ if you wanna move file? then type:
 ```
 move
 ```
-this mode move all file
+this mode move all file.
 ```
 ./[old_directory]/
 to
@@ -90,7 +90,7 @@ if you type dont much any mode:
 ```
 code says: good bye
 ```
-please type truth 
+please type truth.
 
 few i finished wrting English!</br>
 you can understand? from my suck English XD</br>
